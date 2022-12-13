@@ -66,6 +66,7 @@
     letter-spacing: 0.5rem;
     text-transform: uppercase;
     font-weight:bold;
+    color: aliceblue;
 }
 .container .main-section:nth-child(1){
    background-color: crimson;
@@ -81,6 +82,14 @@
 }
 .container .main-section:nth-child(5){
    background-color: rgb(20, 197, 220);
+}
+@media (max-width:600px){
+   .header .nav-bar a span{
+      display: none;
+   }
+   .container .main-section{
+      font-size: 2rem;
+   }
 }
 
 
