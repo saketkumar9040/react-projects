@@ -65,6 +65,22 @@
     font-size: 4rem;
     letter-spacing: 0.5rem;
     text-transform: uppercase;
+    font-weight:bold;
+}
+.container .main-section:nth-child(1){
+   background-color: crimson;
+}
+.container .main-section:nth-child(2){
+   background-color:darkgoldenrod;
+}
+.container .main-section:nth-child(3){
+   background-color: rgb(22, 221, 49);
+}
+.container .main-section:nth-child(4){
+   background-color: rgb(107, 20, 220);
+}
+.container .main-section:nth-child(5){
+   background-color: rgb(20, 197, 220);
 }
 
 
