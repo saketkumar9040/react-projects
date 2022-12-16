@@ -1,10 +1,10 @@
-import React from "react";
+// import React from "react";
 import TopBar from './components/topbar/TopBar'
 
 const App = () => {
   return <div>
-    react-listing-app
    <TopBar />
+ 
   </div>;
 };
 
