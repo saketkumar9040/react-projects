@@ -20,7 +20,7 @@ function TopBar(){
         </ul>
     </div>
     <div className="topbar-right">
-        <img className="topbar-profile-picture" src="https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt='profilePicture'/>
+        <img className="topbar-profile-picture" src="https://imgv3.fotor.com/images/blog-cover-image/10-profile-picture-ideas-to-make-you-stand-out.jpg" alt='profilePicture'/>
         <i className=" topbar-search  fa-sharp fa-solid fa-magnifying-glass"></i>
        </div> 
     </div>

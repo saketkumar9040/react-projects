@@ -8,7 +8,7 @@ const Sidebar = () => {
         <span className="sidebar-title">ABOUT ME</span>
         <img
           className="sidebar-img "
-          src="https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          src="https://imgv3.fotor.com/images/blog-cover-image/10-profile-picture-ideas-to-make-you-stand-out.jpg"
           alt="pics"
         />
         <p>
