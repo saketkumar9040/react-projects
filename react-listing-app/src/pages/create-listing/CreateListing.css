@@ -1,0 +1,55 @@
+.create-listing-image-upload{
+    cursor: pointer;
+}
+
+.create-listing{
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.create-listing-form-group{
+    margin-left: 120px;
+    display: flex;
+    align-items: center;
+}
+
+.upload-icon{
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    border: 2.5px solid rgb(160, 3, 239);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:  rgb(160, 3, 239);
+}
+
+.create-listing-text{
+    line-height: 20px;
+    width: 50vw;
+    height: 30px;
+    border: none;
+    font-size: 16px;
+    padding: 2px;
+}
+
+.create-listing-description{
+    margin-top: 20px;
+    height: 80px;
+}
+
+.create-listing-button{
+    margin: 20px 0px 20px 9%;
+    padding: auto;
+    width: 50vw;
+    height: 30px;
+    cursor: pointer;
+    background-color: var(--bg-color);
+    border: none;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 20px;
+}
